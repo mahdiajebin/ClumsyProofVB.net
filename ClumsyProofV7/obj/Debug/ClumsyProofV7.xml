@@ -1,0 +1,146 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ClumsyProofV7
+</name>
+</assembly>
+<members>
+<member name="T:ClumsyProofV7.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources._12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources._5d92e72f8161040001b860ce">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources._5d92e72f8161040001b860ce1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.Capture2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.Capture2___Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.Capture21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.cmi_iphone_9_riflepaper_gardenparty_blue_cm042582_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.Dcrs_1IVAAAidXr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.fashion_design_phone_case_fashion_design">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.fl5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.free_iphone_xr_case_mockups">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.hm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.https___cdn_cnn_com_cnnnext_dam_assets_190916171350_underscored_iphonecases_lead">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.iphone_11_PNG42">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.iphone_11_PNG421">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.iPhone_Case_Mockup_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.iPhone7_BlackBG_ColorcaseArtboard_FB">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.iPhone7_BlackBG_ColorcaseArtboard_FB1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.iPhone7_BlackBG_ColorcaseArtboard_FB2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.kd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.phone_and_tablet_covers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.pr_e1552667648448">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.pr_e15526676484481">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ClumsyProofV7.My.Resources.Resources.Webp_net_resizeimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
